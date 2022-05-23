@@ -1,0 +1,8 @@
+/node_modules
+.vscode
+imagery.js
+high_stats_.js
+feeds_update.js
+sitreport.pdf
+sitreport-parser.js
+scratch
