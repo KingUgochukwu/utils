@@ -1,0 +1,1972 @@
+{
+  "uniqueValueInfos": [
+    {
+      "symbol": {
+        "color": [191, 191, 191, 255],
+        "outline": {
+          "color": [191, 191, 191, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "911 Telephone Outage",
+      "label": "911 Telephone Outage",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 254, 254, 255],
+        "outline": {
+          "color": [254, 254, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Administrative Message",
+      "label": "Administrative Message",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [127, 127, 127, 255],
+        "outline": {
+          "color": [127, 127, 127, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Air Quality Alert",
+      "label": "Air Quality Alert",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [127, 127, 127, 255],
+        "outline": {
+          "color": [127, 127, 127, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Air Stagnation Advisory",
+      "label": "Air Stagnation Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 126, 255],
+        "outline": {
+          "color": [0, 254, 126, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Arroyo and Small Stream Flood Advisory",
+      "label": "Arroyo and Small Stream Flood Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [104, 104, 104, 255],
+        "outline": {
+          "color": [104, 104, 104, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Ashfall Advisory",
+      "label": "Ashfall Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [168, 168, 168, 255],
+        "outline": {
+          "color": [168, 168, 168, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Ashfall Warning",
+      "label": "Ashfall Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [204, 132, 62, 255],
+        "outline": {
+          "color": [204, 132, 62, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Avalanche Advisory",
+      "label": "Avalanche Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [29, 143, 254, 255],
+        "outline": {
+          "color": [29, 143, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Avalanche Warning",
+      "label": "Avalanche Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [243, 163, 95, 255],
+        "outline": {
+          "color": [243, 163, 95, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Avalanche Watch",
+      "label": "Avalanche Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [63, 223, 207, 255],
+        "outline": {
+          "color": [63, 223, 207, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Beach Hazards Statement",
+      "label": "Beach Hazards Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 68, 0, 255],
+        "outline": {
+          "color": [254, 68, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Blizzard Warning",
+      "label": "Blizzard Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [172, 254, 46, 255],
+        "outline": {
+          "color": [172, 254, 46, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Blizzard Watch",
+      "label": "Blizzard Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [188, 182, 106, 255],
+        "outline": {
+          "color": [188, 182, 106, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Blowing Dust Advisory",
+      "label": "Blowing Dust Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [215, 190, 215, 255],
+        "outline": {
+          "color": [215, 190, 215, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Brisk Wind Advisory",
+      "label": "Brisk Wind Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 214, 0, 255],
+        "outline": {
+          "color": [254, 214, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Child Abduction Emergency",
+      "label": "Child Abduction Emergency",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 181, 192, 255],
+        "outline": {
+          "color": [254, 181, 192, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Civil Danger Warning",
+      "label": "Civil Danger Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 181, 192, 255],
+        "outline": {
+          "color": [254, 181, 192, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Civil Emergency Message",
+      "label": "Civil Emergency Message",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [123, 251, 0, 255],
+        "outline": {
+          "color": [123, 251, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Coastal Flood Advisory",
+      "label": "Coastal Flood Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [106, 141, 34, 255],
+        "outline": {
+          "color": [106, 141, 34, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Coastal Flood Statement",
+      "label": "Coastal Flood Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [33, 138, 33, 255],
+        "outline": {
+          "color": [33, 138, 33, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Coastal Flood Warning",
+      "label": "Coastal Flood Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [101, 204, 169, 255],
+        "outline": {
+          "color": [101, 204, 169, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Coastal Flood Watch",
+      "label": "Coastal Flood Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [111, 127, 143, 255],
+        "outline": {
+          "color": [111, 127, 143, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Dense Fog Advisory",
+      "label": "Dense Fog Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [239, 229, 139, 255],
+        "outline": {
+          "color": [239, 229, 139, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Dense Smoke Advisory",
+      "label": "Dense Smoke Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 195, 255],
+        "outline": {
+          "color": [254, 227, 195, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Dust Storm Warning",
+      "label": "Dust Storm Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [138, 68, 18, 255],
+        "outline": {
+          "color": [138, 68, 18, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Earthquake Warning",
+      "label": "Earthquake Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [126, 254, 0, 255],
+        "outline": {
+          "color": [126, 254, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Evacuation - Immediate",
+      "label": "Evacuation - Immediate",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [198, 20, 132, 255],
+        "outline": {
+          "color": [198, 20, 132, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Excessive Heat Warning",
+      "label": "Excessive Heat Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [127, 0, 0, 255],
+        "outline": {
+          "color": [127, 0, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Excessive Heat Watch",
+      "label": "Excessive Heat Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 0, 254, 255],
+        "outline": {
+          "color": [0, 0, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Extreme Cold Warning",
+      "label": "Extreme Cold Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 0, 254, 255],
+        "outline": {
+          "color": [0, 0, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Extreme Cold Watch",
+      "label": "Extreme Cold Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [232, 149, 121, 255],
+        "outline": {
+          "color": [232, 149, 121, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Extreme Fire Danger",
+      "label": "Extreme Fire Danger",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 139, 0, 255],
+        "outline": {
+          "color": [254, 139, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Extreme Wind Warning",
+      "label": "Extreme Wind Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [159, 81, 44, 255],
+        "outline": {
+          "color": [159, 81, 44, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Fire Warning",
+      "label": "Fire Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 221, 172, 255],
+        "outline": {
+          "color": [254, 221, 172, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Fire Weather Watch",
+      "label": "Fire Weather Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [138, 0, 0, 255],
+        "outline": {
+          "color": [138, 0, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flash Flood Statement",
+      "label": "Flash Flood Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [138, 0, 0, 255],
+        "outline": {
+          "color": [138, 0, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flash Flood Warning",
+      "label": "Flash Flood Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [45, 138, 86, 255],
+        "outline": {
+          "color": [45, 138, 86, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flash Flood Watch",
+      "label": "Flash Flood Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 126, 255],
+        "outline": {
+          "color": [0, 254, 126, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flood Advisory",
+      "label": "Flood Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 0, 255],
+        "outline": {
+          "color": [0, 254, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flood Statement",
+      "label": "Flood Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 0, 255],
+        "outline": {
+          "color": [0, 254, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flood Warning",
+      "label": "Flood Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [45, 138, 86, 255],
+        "outline": {
+          "color": [45, 138, 86, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Flood Watch",
+      "label": "Flood Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [71, 60, 138, 255],
+        "outline": {
+          "color": [71, 60, 138, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Freeze Warning",
+      "label": "Freeze Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 254, 255],
+        "outline": {
+          "color": [0, 254, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Freeze Watch",
+      "label": "Freeze Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 127, 127, 255],
+        "outline": {
+          "color": [0, 127, 127, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Freezing Fog Advisory",
+      "label": "Freezing Fog Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [217, 111, 213, 255],
+        "outline": {
+          "color": [217, 111, 213, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Freezing Rain Advisory",
+      "label": "Freezing Rain Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 190, 254, 255],
+        "outline": {
+          "color": [0, 190, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Freezing Spray Advisory",
+      "label": "Freezing Spray Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [99, 148, 236, 255],
+        "outline": {
+          "color": [99, 148, 236, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Frost Advisory",
+      "label": "Frost Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [220, 159, 220, 255],
+        "outline": {
+          "color": [220, 159, 220, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Gale Warning",
+      "label": "Gale Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 191, 202, 255],
+        "outline": {
+          "color": [254, 191, 202, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Gale Watch",
+      "label": "Gale Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [147, 0, 210, 255],
+        "outline": {
+          "color": [147, 0, 210, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hard Freeze Warning",
+      "label": "Hard Freeze Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [64, 104, 224, 255],
+        "outline": {
+          "color": [64, 104, 224, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hard Freeze Watch",
+      "label": "Hard Freeze Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [74, 0, 129, 255],
+        "outline": {
+          "color": [74, 0, 129, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hazardous Materials Warning",
+      "label": "Hazardous Materials Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [215, 190, 215, 255],
+        "outline": {
+          "color": [215, 190, 215, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hazardous Seas Warning",
+      "label": "Hazardous Seas Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [71, 60, 138, 255],
+        "outline": {
+          "color": [71, 60, 138, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hazardous Seas Watch",
+      "label": "Hazardous Seas Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [237, 231, 169, 255],
+        "outline": {
+          "color": [237, 231, 169, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hazardous Weather Outlook",
+      "label": "Hazardous Weather Outlook",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 126, 79, 255],
+        "outline": {
+          "color": [254, 126, 79, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Heat Advisory",
+      "label": "Heat Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 190, 254, 255],
+        "outline": {
+          "color": [0, 190, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Heavy Freezing Spray Warning",
+      "label": "Heavy Freezing Spray Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [187, 142, 142, 255],
+        "outline": {
+          "color": [187, 142, 142, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Heavy Freezing Spray Watch",
+      "label": "Heavy Freezing Spray Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [185, 84, 210, 255],
+        "outline": {
+          "color": [185, 84, 210, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "High Surf Advisory",
+      "label": "High Surf Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [33, 138, 33, 255],
+        "outline": {
+          "color": [33, 138, 33, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "High Surf Warning",
+      "label": "High Surf Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [217, 164, 31, 255],
+        "outline": {
+          "color": [217, 164, 31, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "High Wind Warning",
+      "label": "High Wind Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [183, 133, 10, 255],
+        "outline": {
+          "color": [183, 133, 10, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "High Wind Watch",
+      "label": "High Wind Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [204, 91, 91, 255],
+        "outline": {
+          "color": [204, 91, 91, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hurricane Force Wind Warning",
+      "label": "Hurricane Force Wind Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [152, 49, 203, 255],
+        "outline": {
+          "color": [152, 49, 203, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hurricane Force Wind Watch",
+      "label": "Hurricane Force Wind Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 180, 255],
+        "outline": {
+          "color": [254, 227, 180, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hurricane Local Statement",
+      "label": "Hurricane Local Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [219, 19, 59, 255],
+        "outline": {
+          "color": [219, 19, 59, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hurricane Warning",
+      "label": "Hurricane Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 0, 254, 255],
+        "outline": {
+          "color": [254, 0, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hurricane Watch",
+      "label": "Hurricane Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 126, 255],
+        "outline": {
+          "color": [0, 254, 126, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hydrologic Advisory",
+      "label": "Hydrologic Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [143, 237, 143, 255],
+        "outline": {
+          "color": [143, 237, 143, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Hydrologic Outlook",
+      "label": "Hydrologic Outlook",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [138, 0, 138, 255],
+        "outline": {
+          "color": [138, 0, 138, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Ice Storm Warning",
+      "label": "Ice Storm Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [71, 208, 203, 255],
+        "outline": {
+          "color": [71, 208, 203, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lake Effect Snow Advisory",
+      "label": "Lake Effect Snow Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 138, 138, 255],
+        "outline": {
+          "color": [0, 138, 138, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lake Effect Snow Warning",
+      "label": "Lake Effect Snow Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [134, 205, 249, 255],
+        "outline": {
+          "color": [134, 205, 249, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lake Effect Snow Watch",
+      "label": "Lake Effect Snow Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [209, 179, 139, 255],
+        "outline": {
+          "color": [209, 179, 139, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lake Wind Advisory",
+      "label": "Lake Wind Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [123, 251, 0, 255],
+        "outline": {
+          "color": [123, 251, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lakeshore Flood Advisory",
+      "label": "Lakeshore Flood Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [106, 141, 34, 255],
+        "outline": {
+          "color": [106, 141, 34, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lakeshore Flood Statement",
+      "label": "Lakeshore Flood Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [33, 138, 33, 255],
+        "outline": {
+          "color": [33, 138, 33, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lakeshore Flood Warning",
+      "label": "Lakeshore Flood Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [101, 204, 169, 255],
+        "outline": {
+          "color": [101, 204, 169, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Lakeshore Flood Watch",
+      "label": "Lakeshore Flood Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [191, 191, 191, 255],
+        "outline": {
+          "color": [191, 191, 191, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Law Enforcement Warning",
+      "label": "Law Enforcement Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [191, 191, 191, 255],
+        "outline": {
+          "color": [191, 191, 191, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Local Area Emergency",
+      "label": "Local Area Emergency",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [164, 41, 41, 255],
+        "outline": {
+          "color": [164, 41, 41, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Low Water Advisory",
+      "label": "Low Water Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 238, 212, 255],
+        "outline": {
+          "color": [254, 238, 212, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Marine Weather Statement",
+      "label": "Marine Weather Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [74, 0, 129, 255],
+        "outline": {
+          "color": [74, 0, 129, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Nuclear Power Plant Warning",
+      "label": "Nuclear Power Plant Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [74, 0, 129, 255],
+        "outline": {
+          "color": [74, 0, 129, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Radiological Hazard Warning",
+      "label": "Radiological Hazard Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 19, 146, 255],
+        "outline": {
+          "color": [254, 19, 146, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Red Flag Warning",
+      "label": "Red Flag Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [63, 223, 207, 255],
+        "outline": {
+          "color": [63, 223, 207, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Rip Current Statement",
+      "label": "Rip Current Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 164, 0, 255],
+        "outline": {
+          "color": [254, 164, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Severe Thunderstorm Warning",
+      "label": "Severe Thunderstorm Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [218, 111, 146, 255],
+        "outline": {
+          "color": [218, 111, 146, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Severe Thunderstorm Watch",
+      "label": "Severe Thunderstorm Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 254, 255],
+        "outline": {
+          "color": [0, 254, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Severe Weather Statement",
+      "label": "Severe Weather Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [249, 127, 113, 255],
+        "outline": {
+          "color": [249, 127, 113, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Shelter In Place Warning",
+      "label": "Shelter In Place Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [151, 250, 151, 255],
+        "outline": {
+          "color": [151, 250, 151, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Short Term Forecast",
+      "label": "Short Term Forecast",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [215, 190, 215, 255],
+        "outline": {
+          "color": [215, 190, 215, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Small Craft Advisory",
+      "label": "Small Craft Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [215, 190, 215, 255],
+        "outline": {
+          "color": [215, 190, 215, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Small Craft Advisory For Hazardous Seas",
+      "label": "Small Craft Advisory For Hazardous Seas",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [215, 190, 215, 255],
+        "outline": {
+          "color": [215, 190, 215, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Small Craft Advisory For Rough Bar",
+      "label": "Small Craft Advisory For Rough Bar",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [215, 190, 215, 255],
+        "outline": {
+          "color": [215, 190, 215, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Small Craft Advisory For Winds",
+      "label": "Small Craft Advisory For Winds",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 126, 255],
+        "outline": {
+          "color": [0, 254, 126, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Small Stream Flood Advisory",
+      "label": "Small Stream Flood Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 164, 0, 255],
+        "outline": {
+          "color": [254, 164, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Special Marine Warning",
+      "label": "Special Marine Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 180, 255],
+        "outline": {
+          "color": [254, 227, 180, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Special Weather Statement",
+      "label": "Special Weather Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [147, 0, 210, 255],
+        "outline": {
+          "color": [147, 0, 210, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Storm Warning",
+      "label": "Storm Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 180, 255],
+        "outline": {
+          "color": [254, 227, 180, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Storm Watch",
+      "label": "Storm Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [239, 254, 254, 255],
+        "outline": {
+          "color": [239, 254, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Test",
+      "label": "Test",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 0, 0, 255],
+        "outline": {
+          "color": [254, 0, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tornado Warning",
+      "label": "Tornado Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 254, 0, 255],
+        "outline": {
+          "color": [254, 254, 0, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tornado Watch",
+      "label": "Tornado Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 180, 255],
+        "outline": {
+          "color": [254, 227, 180, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tropical Depression Local Statement",
+      "label": "Tropical Depression Local Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 180, 255],
+        "outline": {
+          "color": [254, 227, 180, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tropical Storm Local Statement",
+      "label": "Tropical Storm Local Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [177, 33, 33, 255],
+        "outline": {
+          "color": [177, 33, 33, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tropical Storm Warning",
+      "label": "Tropical Storm Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [239, 127, 127, 255],
+        "outline": {
+          "color": [239, 127, 127, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tropical Storm Watch",
+      "label": "Tropical Storm Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [209, 104, 29, 255],
+        "outline": {
+          "color": [209, 104, 29, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tsunami Advisory",
+      "label": "Tsunami Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [252, 98, 70, 255],
+        "outline": {
+          "color": [252, 98, 70, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tsunami Warning",
+      "label": "Tsunami Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 0, 254, 255],
+        "outline": {
+          "color": [254, 0, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Tsunami Watch",
+      "label": "Tsunami Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 227, 180, 255],
+        "outline": {
+          "color": [254, 227, 180, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Typhoon Local Statement",
+      "label": "Typhoon Local Statement",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [219, 19, 59, 255],
+        "outline": {
+          "color": [219, 19, 59, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Typhoon Warning",
+      "label": "Typhoon Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 0, 254, 255],
+        "outline": {
+          "color": [254, 0, 254, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Typhoon Watch",
+      "label": "Typhoon Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [0, 254, 126, 255],
+        "outline": {
+          "color": [0, 254, 126, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Urban and Small Stream Flood Advisory",
+      "label": "Urban and Small Stream Flood Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [46, 78, 78, 255],
+        "outline": {
+          "color": [46, 78, 78, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Volcano Warning",
+      "label": "Volcano Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [209, 179, 139, 255],
+        "outline": {
+          "color": [209, 179, 139, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Wind Advisory",
+      "label": "Wind Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [174, 237, 237, 255],
+        "outline": {
+          "color": [174, 237, 237, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Wind Chill Advisory",
+      "label": "Wind Chill Advisory",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [175, 195, 221, 255],
+        "outline": {
+          "color": [175, 195, 221, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Wind Chill Warning",
+      "label": "Wind Chill Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [94, 157, 159, 255],
+        "outline": {
+          "color": [94, 157, 159, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Wind Chill Watch",
+      "label": "Wind Chill Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [254, 104, 179, 255],
+        "outline": {
+          "color": [254, 104, 179, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Winter Storm Warning",
+      "label": "Winter Storm Warning",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [69, 129, 179, 255],
+        "outline": {
+          "color": [69, 129, 179, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Winter Storm Watch",
+      "label": "Winter Storm Watch",
+      "description": ""
+    },
+    {
+      "symbol": {
+        "color": [122, 103, 237, 255],
+        "outline": {
+          "color": [122, 103, 237, 255],
+          "width": 0.4,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "value": "Winter Weather Advisory",
+      "label": "Winter Weather Advisory",
+      "description": ""
+    }
+  ]
+}

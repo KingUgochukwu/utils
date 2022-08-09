@@ -1,0 +1,125 @@
+openapi: 3.0.0
+info:
+  description: |
+    This is a API for the firetrac application .  You can find 
+    out more about Firetrac at 
+    www.firetrac.com.
+  version: 1.0.0
+  title: FireTrac API
+  termsOfService: NA
+  contact:
+    email: support@firetrac.com
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+host: api.firetrac.com
+basePath: /v1
+tags:
+- name: user
+  description: Everything used by the firetrac user
+- name: admin
+  description: Everything used by the firetrac admin
+- name: feedback
+  description: Everything used by firetrac feedback now
+- name: payments
+servers:
+  # Added by API Auto Mocking Plugin
+  # Added by API Auto Mocking Plugin
+  - description: SwaggerHub API Auto Mocking
+    url: https://virtserver.swaggerhub.com/VANYANWU/firetrac_api_v1/1.0.0
+  - description: SwaggerHub API Auto Mocking
+    url: https://virtserver.swaggerhub.com/VANYANWU/ugiwsgd/1.0.0
+  - url: https://api.firetrac.com/api/v1/
+    description: Production server (uses live data)
+  - url: http://35.155.91.4:3000/api/v1/
+    description: Sandbox server (uses dev data)
+  - url: http://stage-api.firetrac.com/api/v1/
+    description: stage server (uses stage data)
+
+
+paths: 
+  /user/getReports: 
+    post: 
+      summary: This function is used to get the firetrac reports on a specific fire
+      tags: 
+      - user
+      requestBody: 
+        description: fire identifier and search options
+        content: 
+          application/json: 
+            schema: 
+              $ref: '#/components/schemas/ReportBody'
+      responses: 
+        200 : 
+          description: successful reports 
+          content: 
+            application/json: 
+              schema:
+                $ref: '#/components/schemas/Reports'
+        400 : 
+          description: Bad request, invalid credentials
+        500 : 
+          description: Internal Server error
+components:
+  schemas:
+    ReportBody: 
+      type: object
+      properties: 
+        id:
+          type: number
+    Reports: 
+      type: array
+      items: 
+        type: object
+        properties: 
+          sys: 
+            type: object
+            properties: 
+              updatedAt: 
+                type: string  
+          fields: 
+            type: object
+            properties: 
+              fireId: 
+                type: number
+              headline: 
+                type: string
+              details: 
+                type: string
+              hasSocial: 
+                type: boolean 
+              authorId: 
+                type: number
+              media: 
+                type: array
+                items: 
+                  type: object
+                  properties: 
+                    sys: 
+                      type: object
+                      properties: 
+                        updatedAt: 
+                          type: string  
+                    fields: 
+                      type: object
+                      properties: 
+                        title: 
+                          type: string
+                        description: 
+                          type: string
+                        file: 
+                          type: object
+                          properties: 
+                            url: 
+                              type: string 
+                            fileName: 
+                              type: string
+                            contentType: 
+                              type: string
+                              enum: 
+                              - video/mp4
+                              - image/jpeg
+                              - image/png
+                        
+                    
+

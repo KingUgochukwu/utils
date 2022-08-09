@@ -1,0 +1,337 @@
+
+
+National Interagency Coordination Center 
+Incident Management Situation Report 
+Wednesday, April 20, 2022 – 0730 MDT 
+National Preparedness Level 2 
+ 
+National Fire Activity:   
+Initial attack activity: Light (103 fires) 
+New large incidents: 
+1 
+Large fires contained:  
+2 
+Uncontained large fires: *** 
+11 
+Area Command teams committed: 
+0 
+NIMOs committed: 
+0 
+Type 1 IMTs committed: 
+3 
+Type 2 IMTs committed: 
+0 
+Complex IMTs committed: 
+0 
+  
+Nationally, there is one fire being managed under a strategy other than full suppression.  
+***Uncontained large fires include only fires being managed under a full suppression strategy. 
+ 
+Link to Geographic Area daily reports. 
+ 
+Link to Understanding the IMSR. 
+ 
+This report will post Monday – Friday at 0730 Mountain time unless significant activity occurs. 
+ 
+ 
+Active Incident Resource Summary 
+GACC Incidents 
+Cumulative 
+Acres 
+Crews Engines Helicopters 
+Total 
+Personnel 
+Change in 
+Personnel 
+AICC 0 0 0 0 0 0 0 
+NWCC 0 0 0 0 0 0 0 
+ONCC 0 0 0 0 0 0 0 
+OSCC 0 0 0 0 0 0 0 
+NRCC 0 0 0 0 0 0 0 
+GBCC 0 0 0 0 0 0 0 
+SWCC 10 21,925 38 108 24 1,970 455 
+RMCC 3 4,691 4 13 0 185 -17 
+EACC 0 0 0 0 0 0 0 
+SACC 12 16,328 4 30 3 169 -56 
+Total 25 42,944 46 151 27 2,324 382 
+ 
+ 
+ 
+  
+
+Southwest Area (PL 4) 
+New fires: 10 
+New large incidents: 1 
+Uncontained large fires: 7 
+Type 1 IMTs committed: 3 
+ 
+* Cooks Peak, Las Vegas District, NM State Forestry. Five miles north of Ocate, NM. Timber, grass and brush. 
+Active fire behavior with running, group torching and spotting. Residences threatened. Evacuations and road 
+closures in effect.  
+ 
+Crooks, Prescott NF, USFS. IMT 1 (CA Team 4). Eleven miles south of Prescott, AZ. Timber and chaparral. 
+Active fire behavior with running, group torching and flanking. Communication infrastructure threatened. 
+Evacuations, area, road and trail closures in effect.  
+ 
+McBride, Capitan District, NM State Forestry. IMT 1 (SW Team 2). IMT is also managing the Nogal Canyon 
+incident. One mile southeast of Ruidoso, NM. Light slash and grass. Minimal fire behavior with backing, 
+creeping and smoldering. Numerous structures threatened.  
+ 
+Nogal Canyon, Capitan District, NM State Forestry. Eight miles northwest of Ruidoso, NM. Timber. Minimal 
+fire behavior with backing, creeping and smoldering. Structures threatened. Road closures in effect.  
+ 
+Hermits Peak, Santa Fe NF, USFS. IMT 1 (SW Team 1). Twelve miles northwest of Las Vegas, NM. Timber. 
+Minimal fire behavior with creeping and smoldering. Area, road and trail closures in effect. Reduction in 
+acreage due to more accurate mapping.  
+ 
+Bonita, Coronado NF, USFS. Six miles southwest of Ruby, AZ. Grass and brush. Minimal fire behavior with 
+smoldering. Structures threatened.  
+ 
+Big Hole, Bernalillo District, NM State Forestry. Nine miles south of Los Lunas, NM. Timber and brush. 
+Minimal fire behavior with smoldering.  
+ 
+Incident Name Unit 
+Size 
+% 
+Ctn/ 
+Comp 
+Est 
+Personnel Resources 
+Strc 
+Lost 
+$$ 
+CTD 
+Origin 
+Own 
+Acres Chge Total Chge Crw Eng Heli 
+* Cooks Peak 
+NM-N4S 3,500 --- 0 Ctn 5/7 118 --- 3 8 0 0 147K ST 
+Crooks 
+AZ-PNF 1,600 1,100 0 Ctn 5/4 292 111 6 14 4 0 100K FS 
+McBride 
+NM-N5S 6,159 0 89 Ctn 4/30 341 -97 4 16 5 331 3.7M ST 
+Nogal Canyon 
+NM-N5S 412 0 77 Ctn 4/27 109 -8 3 6 3 10 939K ST 
+Hermits Peak 
+NM-SNF 7,573 -8 81 Ctn 4/25 460 -107 8 24 5 7 7.9M FS 
+Bonita 
+AZ-CNF 730 0 90 Ctn UNK 33 -54 1 2 0 0 225K FS 
+Big Hole 
+NM-N6S 890 0 85 Ctn 4/25 10 -5 0 1 0 19 700K ST 
+Wildkat 
+AZ-A3S 562 0 100 Ctn --- 0 -68 0 0 0 0 25K ST 
+A3S – Southeast District, Arizona DOF 
+ 
+ 
+Southern Area (PL 3) 
+New fires: 23 
+New large incidents: 0 
+Uncontained large fires: 4 
+ 
+Nina Lucia, Texas A&M Forest Service. Started on private lands 20 miles southeast of Colorado City, TX. 
+Grass. Minimal fire behavior.  
+
+ 
+Easter Blues, Texas A&M Forest Service. Started on private land 13 miles south of Merkel, TX. Grass. 
+Minimal fire behavior.  
+ 
+Hancock Creek, National Forests in North Carolina, USFS. Five miles northeast of Havelock, NC. Timber and 
+brush. No new information.   
+ 
+Kane, Osage Agency, BIA. Eight miles west of Bartlesville, OK. Timber and grass. No new information. Last 
+report unless new information is received.  
+  
+Incident Name Unit 
+Size 
+% 
+Ctn/ 
+Comp 
+Est 
+Personnel Resources 
+Strc 
+Lost 
+$$ 
+CTD 
+Origin 
+Own 
+Acres Chge Total Chge Crw Eng Heli 
+Nina Lucia 
+TX-TXS 564 0 95 Ctn 4/20 18 -23 0 5 0 0 NR PRI 
+Easter Blues 
+TX-TXS 414 64 75 Ctn 4/21 37 -19 0 4 1 0 NR PRI 
+Hancock Creek 
+NC-NCF 829 --- 96 Ctn UNK 11 --- 0 2 1 0 25K FS 
+Kane 
+OK-OSA 1,676 --- 90 Ctn UNK 23 --- 0 8 1 0 30K BIA 
+Arbuckle 
+OK-CHA 2,624 714 100 Ctn --- 0 -5 0 0 0 0 55K BIA 
+CHA – Chickasaw Agency, BIA 
+ 
+ 
+Alaska Area (PL 1) 
+New fires: 1 
+New large incidents: 0 
+Uncontained large fires: 0 
+ 
+Incident Name Unit 
+Size 
+% 
+Ctn/ 
+Comp 
+Est 
+Personnel Resources 
+Strc 
+Lost 
+$$ 
+CTD 
+Origin 
+Own 
+Acres Chge Total Chge Crw Eng Heli 
+Large Fires Being Managed with a Strategy Other Than Full Suppression Without a Type 1 or 2 IMT Assigned 
+Kwethluk 
+AK-SWS 2,011 --- 0 Comp 9/30 0 --- 0 0 0 0 6K FWS 
+SWS – Southwest Area, Alaska DOF 
+ 
+  
+
+Fires and Acres Yesterday (by Protection): 
+Area 
+ 
+BIA BLM FWS NPS ST/OT USFS TOTAL 
+Alaska Area 
+FIRES 
+0 0 0 0 1 0 1 
+ACRES 
+0 0 0 0 2,093 0 2,093 
+Northwest Area 
+FIRES 
+0 1 0 0 0 0 1 
+ACRES 
+0 50 0 0 0 0 50 
+Northern California Area 
+FIRES 
+0 0 0 0 4 1 5 
+ACRES 
+0 0 0 0 2 0 2 
+Southern California Area 
+FIRES 
+0 0 0 0 9 0 9 
+ACRES 
+0 0 0 0 23 0 23 
+Northern Rockies Area 
+FIRES 
+0 0 0 0 0 0 0 
+ACRES 
+0 0 0 0 0 0 0 
+Great Basin Area 
+FIRES 
+0 0 0 0 0 0 0 
+ACRES 
+0 0 0 0 0 0 0 
+Southwest Area 
+FIRES 
+1 1 0 0 3 5 10 
+ACRES 
+0 0 0 0 22 1 24 
+Rocky Mountain Area 
+FIRES 
+0 0 0 0 6 0 6 
+ACRES 
+0 0 0 0 18 0 18 
+Eastern Area 
+FIRES 
+0 0 0 0 48 0 48 
+ACRES 
+0 0 0 0 303 0 303 
+Southern Area 
+FIRES 
+3 0 0 0 17 3 23 
+ACRES 
+1,288 0 0 0 88 389 1,767 
+TOTAL FIRES:  
+4 2 0 0 88 9 103 
+TOTAL ACRES:  
+1,288 50 0 0 2,551 391 4,281 
+ 
+  
+
+Fires and Acres Year-to-Date (by Protection): 
+Area 
+ 
+BIA BLM FWS NPS ST/OT USFS TOTAL 
+Alaska Area 
+FIRES 0 0 0 0 9 3 12 
+ACRES 0 0 0 0 3,293 0 3,293 
+Northwest Area 
+FIRES 19 8 0 0 80 9 116 
+ACRES 291 183 0 0 127 0 601 
+Northern California Area 
+FIRES 0 1 0 3 528 33 565 
+ACRES 0 1 0 0 401 72 474 
+Southern California Area 
+FIRES 4 10 1 1 663 80 759 
+ACRES 0 8 100 1 5,909 596 6,614 
+Northern Rockies Area 
+FIRES 38 1 0 0 75 14 128 
+ACRES 92 1 0 0 1,012 70 1,175 
+Great Basin Area 
+FIRES 2 22 2 1 57 11 95 
+ACRES 1 54 0 0 280 1 336 
+Southwest Area 
+FIRES 95 43 1 1 117 99 356 
+ACRES 1,271 4,228 0 0 33,274 14,357 53,131 
+Rocky Mountain Area 
+FIRES 62 6 7 1 110 20 206 
+ACRES 1,187 2 89 264 55,765 444 57,751 
+Eastern Area 
+FIRES 12 0 1 3 1,766 93 1,875 
+ACRES 202 0 1 10 15,561 2,457 18,231 
+Southern Area 
+FIRES 482 1 12 30 14,578 397 15,500 
+ACRES 96,110 3 2,205 2,315 555,074 34,366 690,074 
+TOTAL FIRES:  714 92 24 40 17,983 759 19,612 
+TOTAL ACRES:  99,155 4,480 2,395 2,590 670,698 52,365 831,685 
+ 
+ 
+ 
+ 
+ 
+***Changes in some agency YTD acres reflect more accurate mapping or reporting adjustments. 
+***Additional wildfire information is available through the Geographic Areas at https://gacc.nifc.gov/ 
+ 
+  
+Ten Year Average Fires (2011 – 2020 as of today) 
+13,574 
+Ten Year Average Acres (2011 – 2020 as of today) 
+635,264 
+
+Predictive Services Discussion: Elevated to critical conditions are expected over much of the Southwest into 
+west Texas and the southern Front Range of Colorado where west winds of 15-25 mph with gusts 30-40 mph 
+will coincide with afternoon relative humidity of 3-15%. Downslope west winds are also forecast across the High 
+Plains  of  eastern  Wyoming  into  South  Dakota  and  Nebraska with  gusts to 45  mph  possible. Dry  and  breezy 
+conditions are expected across the western Florida peninsula as well. Showers and thunderstorms will develop 
+across the central and northern Mississippi Valley with severe thunderstorms possible over eastern Oklahoma 
+into the Ozarks. A deep Pacific trough will begin to move into the West Coast with heavy rain along the northern 
+California and Northwest coasts and snow for the Cascades and northern Sierra.  
+ 
+http://www.predictiveservices.nifc.gov/outlooks/outlooks.htm  
+
+ 
+ 
+ 
+Leadership Environment 
+Leadership Category 
+ 
+Leadership is the act of influencing people to achieve a result. The leadership environment is 
+made up of critical elements that a successful leader must consider in planning for effective 
+action. Those critical elements are: 
+ 
+ You – the leader, who is ultimately responsible for all action and results. 
+ Your people – those who you are responsible for. 
+ Situation – comprised of the many unique variables that influence a leader’s 
+decision such as objectives, conditions, resources available, organizational 
+influences, and others affected by the action. 
+ Consequences – the short- and long-term effects of your actions. 
+Leaders constantly assess the elements of the leadership environment and adapt accordingly. 
+Successful leaders understand the interplay of these variables and demonstrate flexibility in 
+selecting appropriate leadership tools and techniques as situations change. 
