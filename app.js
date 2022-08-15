@@ -411,39 +411,55 @@ async function downloadPerimeters() {
     )
     .orderBy("id", "desc");
 
-  for (let index = 0; index < feeds.length; index++) {
-    const element = feeds[index];
-    if (element.origin == "N") {
-      let correspondingI = await knex("N2Icrosswalk as N")
-        .select(
-          "feeds.id as id",
-          "feeds.origin as origin",
-          "feeds.IrwinId as IrwinID"
-        )
-        .leftJoin("feeds", "N.IrwinId", "=", "feeds.IrwinId")
-        .where({ linkURI: element.link })
-        .first();
-      if (!correspondingI || correspondingI.IrwinID) continue;
-      idQueryString += `'{${correspondingI.IrwinID}}',`;
-    } else {
-      idQueryString += `'{${element.IrwinID}}',`;
-    }
-  }
-  idQueryString = idQueryString.slice(0, -1);
+  // // for (let index = 0; index < feeds.length; index++) {
+  // //   const element = feeds[index];
+  // //   if (element.origin == "N") {
+  // //     let correspondingI = await knex("N2Icrosswalk as N")
+  // //       .select(
+  // //         "feeds.id as id",
+  // //         "feeds.origin as origin",
+  // //         "feeds.IrwinId as IrwinID"
+  // //       )
+  // //       .leftJoin("feeds", "N.IrwinId", "=", "feeds.IrwinId")
+  // //       .where({ linkURI: element.link })
+  // //       .first();
+  // //     if (!correspondingI || correspondingI.IrwinID) continue;
+  // //     idQueryString += `'{${correspondingI.IrwinID}}',`;
+  // //   } else {
+  // //     idQueryString += `'{${element.IrwinID}}',`;
+  // //   }
+  // // }
+  // idQueryString = idQueryString.slice(0, -1);
 
-  idQueryString = `irwin_IrwiniD in (${idQueryString})`;
+  // idQueryString = `irwin_IrwiniD in (${idQueryString})`;
 
   const filePath = `fire_perimeters_${Date.now()}.json`;
   var watch = fs.createWriteStream(filePath);
   let esriResult;
+  let count = 1;
   try {
     esriResult = await esri.queryFeatures({
       url: "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Fire_History_Perimeters_Public/FeatureServer/0",
       f: "geojson",
-      where: idQueryString,
+      where: `irwin_CreatedOnDateTime_dt > '2022-01-01'`,
       httpMethod: "POST",
       outFields: "irwin_IncidentName",
     });
+    let test = "";
+    while (esriResult.properties.exceededTransferLimit) {
+      let temp = await esri.queryFeatures({
+        url: "https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Fire_History_Perimeters_Public/FeatureServer/0",
+        f: "geojson",
+        where: `irwin_CreatedOnDateTime_dt > '2022-01-01'`,
+        httpMethod: "POST",
+        outFields: "irwin_IncidentName",
+        resultOffset: 2000 * count,
+      });
+      count++;
+      esriResult.properties.exceededTransferLimit =
+        temp.properties?.exceededTransferLimit;
+      esriResult.features = [...esriResult.features, ...temp.features];
+    }
   } catch (error) {
     esriResult = {};
     console.log(error);
